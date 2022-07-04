@@ -24,3 +24,10 @@ HR departments also focus on the overall health and safety of the employees. HR 
 They also run benefit programs like health insurance and retirement benefits. They attract and manage the performance of employees, helping them in their work and in their careers.
 
 Finally, HR teams also need to ensure legal compliance. They make sure that the organization adheres to the local and government laws and practices.
+
+Goals of HR include:
+
+The first goal is to hire top talent for the organization based on technical skills and organizational skills and retain them.
+They focus on improving employee productivity by providing tools and training.
+They want to increase employee engagement within the organization. Motivated and happy employees result in happy customers and better business.
+HR also focuses on developing their top talent, helping them grow in their careers, and nurture future leaders in the organization.
