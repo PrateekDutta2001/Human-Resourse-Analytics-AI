@@ -28,6 +28,8 @@ Finally, HR teams also need to ensure legal compliance. They make sure that the 
 Goals of HR include:
 
 The first goal is to hire top talent for the organization based on technical skills and organizational skills and retain them.
+
 They focus on improving employee productivity by providing tools and training.
+
 They want to increase employee engagement within the organization. Motivated and happy employees result in happy customers and better business.
 HR also focuses on developing their top talent, helping them grow in their careers, and nurture future leaders in the organization.
