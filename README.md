@@ -25,7 +25,7 @@ They also run benefit programs like health insurance and retirement benefits. Th
 
 Finally, HR teams also need to ensure legal compliance. They make sure that the organization adheres to the local and government laws and practices.
 
-Goals of HR include:
+# Goals of HR include:
 
 The first goal is to hire top talent for the organization based on technical skills and organizational skills and retain them.
 
