@@ -48,6 +48,7 @@ Tracking compliance globally is yet another challenge.
 How can AI help HR to solve these challenges?
 
 AI can help in talent acquisition. For example, it can automatically screen applicants and filter the list to those who have skills and experience to match the requirements.
+
 It can help in talent development by recommending the right sort of training programs for a given employee.
 AI can help understand the collaboration paths within an organization and hence can aid in organizational design.
 It can provide automated virtual agents for self-service help to employees.
