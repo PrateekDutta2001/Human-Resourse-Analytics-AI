@@ -44,6 +44,7 @@ The top challenge is attracting and retaining top talent. There is always a huge
 Tracking compliance globally is yet another challenge.
 
 # AI and HR:-
+
 How can AI help HR to solve these challenges?
 
 AI can help in talent acquisition. For example, it can automatically screen applicants and filter the list to those who have skills and experience to match the requirements.
