@@ -42,3 +42,12 @@ Key challenges faced by HR today include:
 The top challenge is attracting and retaining top talent. There is always a huge demand for top talent. In today's connected world, it is easier than ever for others to poach on the organization's talent. Lack of strong leadership is one of the key reasons why employees leave an organization. Good leadership is hard to find outside the organization, hence identifying the next set of leaders within the company and nurturing them while not losing them is a key challenge. An organization needs a unified culture to work together. HR needs to define the expected organization culture and ensure that it is implemented throughout the organization. Compensation is a key part of attracting and retaining top talent. HR needs to devise creative ways to compensate employees, such that they are motivated to stay and grow within the organization. Organizations today are spread across multiple countries globally, and HR laws and guidelines differ from country to country.
 
 Tracking compliance globally is yet another challenge.
+
+AI and HR:-
+How can AI help HR to solve these challenges?
+
+AI can help in talent acquisition. For example, it can automatically screen applicants and filter the list to those who have skills and experience to match the requirements.
+It can help in talent development by recommending the right sort of training programs for a given employee.
+AI can help understand the collaboration paths within an organization and hence can aid in organizational design.
+It can provide automated virtual agents for self-service help to employees.
+It can help understand employee sentiment and thus aid HR to improve employee engagement by focusing on those who need motivation.
