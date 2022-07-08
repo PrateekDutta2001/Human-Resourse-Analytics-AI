@@ -54,4 +54,5 @@ It can help in talent development by recommending the right sort of training pro
 AI can help understand the collaboration paths within an organization and hence can aid in organizational design.
 
 It can provide automated virtual agents for self-service help to employees.
+
 It can help understand employee sentiment and thus aid HR to improve employee engagement by focusing on those who need motivation.
