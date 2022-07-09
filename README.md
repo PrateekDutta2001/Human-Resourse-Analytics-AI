@@ -56,3 +56,5 @@ AI can help understand the collaboration paths within an organization and hence 
 It can provide automated virtual agents for self-service help to employees.
 
 It can help understand employee sentiment and thus aid HR to improve employee engagement by focusing on those who need motivation.
+
+Overview Of HR Use-Cases
