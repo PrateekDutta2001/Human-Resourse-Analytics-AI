@@ -60,3 +60,7 @@ It can help understand employee sentiment and thus aid HR to improve employee en
 # Overview Of HR Use-Cases
 
 We deep dive into the use case and build code to execute the use case. The use cases covered here are:
+
+predicting employee attrition
+discovering virtual teams, and
+recommending training courses
