@@ -64,3 +64,7 @@ We deep dive into the use case and build code to execute the use case. The use c
 - predicting employee attrition
 - discovering virtual teams, and
 - recommending training courses
+
+# Conflict of Interest
+
+This project
