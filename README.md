@@ -67,4 +67,4 @@ We deep dive into the use case and build code to execute the use case. The use c
 
 # Conflict of Interest
 
-This project develope for educational purpose. No Animal & human being has been infected.
+This project develope for educational purpose. No Animal & human being has been affected.
